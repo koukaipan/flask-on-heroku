@@ -1,0 +1,8 @@
+{
+  "name": "Hello Flask on Heroku: Python",
+  "description": "A minimal file set to demostrate a hello world with Flask on Heroku.",
+  "image": "heroku/python",
+  "repository": "",
+  "keywords": ["python", "flask" ],
+  "addons": [ ]
+}
